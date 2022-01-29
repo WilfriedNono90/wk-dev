@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class Test {
 
     public void test() {
-
+        System.out.println("Bonour");
     }
     public static void main(String[] args) throws IOException {
         String myPath = "C:\\Users\\49152\\Documents\\WK_Dev\\src\\b_deuxieme_session_23_01_2022\\dictionaire.txt";

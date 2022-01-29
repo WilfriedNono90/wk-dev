@@ -6,7 +6,7 @@ import java.util.Map;
 public class Execice_niveau3_gestion_note_maths {
     public static void main(String[] args) {
         HashMap<String,Double> datenBank = new HashMap<>();
-
+// noms 
         datenBank.put("Wilfried",new Double(17));
         datenBank.put("Jacque",new Double(14));
         datenBank.put("Nelly",new Double(15));

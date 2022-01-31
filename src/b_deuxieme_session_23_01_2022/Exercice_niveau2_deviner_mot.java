@@ -6,7 +6,7 @@ public class Exercice_niveau2_deviner_mot {
 
     public static void main(String[] args) {
 
-        //initialiser un dictionaire
+        // liste des mots et initialiser un dictionaire
         List<String> dictionaire = Arrays.asList("Wilfried","bonjour",
                 "bonsoir","nelly","lesly","Cesar","Jacques","blondelle","wendy","Gigi");
 

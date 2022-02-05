@@ -22,4 +22,5 @@ public class Execice_niveau3_gestion_note_maths {
 
         System.out.println("moyenne "+somme/datenBank.size());
     }
+    //Fin du programme
 }

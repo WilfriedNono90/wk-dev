@@ -27,7 +27,7 @@ public class Exercice_niveau2_deviner_mot {
             System.out.println("Deviner le Mot");
             Scanner sc = new Scanner(System.in);
             mot_saisi = sc.nextLine();
-            if (mot_magique.equals(mot_saisi)) {
+            if(mot_magique.equals(mot_saisi) ) {
                 System.out.println("Bravo vous avez trouvez le mot");
                 break;
             } else {

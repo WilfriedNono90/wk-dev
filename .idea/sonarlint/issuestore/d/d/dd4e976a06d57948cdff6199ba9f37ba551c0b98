@@ -1,0 +1,21 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "chaine".(€”éÊùÿÿÿÿ
+F
+java:S1481"+Remove this unused "chaine" local variable.(€”éÊùÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(È¨˜À
+D
+java:S1940")Use the opposite operator (">=") instead.(û…¯Ñşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËÁ§ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ï çŸ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û¼Ãÿÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ËÁ§ÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(§‡ßÊøÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ËÁ§ÿÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªĞ»úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹‰ÖÛ
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(ÅÑò˜
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(È¨˜À

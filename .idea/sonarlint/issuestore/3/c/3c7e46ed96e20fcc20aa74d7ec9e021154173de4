@@ -1,0 +1,28 @@
+
+U
+java:S1854D":Remove this useless assignment to local variable "entier".(óËËìûÿÿÿÿ
+U
+java:S18548":Remove this useless assignment to local variable "chaine".(ºÊª¸ıÿÿÿÿ
+Q
+java:S18545";Remove this useless assignment to local variable "reel_up".(–ºƒĞ
+P
+java:S18540":Remove this useless assignment to local variable "entier".(¾¢×õ
+N
+java:S1854"8Remove this useless assignment to local variable "reel".(âŠ‰ü
+X
+java:S1854"=Remove this useless assignment to local variable "entier_up".(îúşÿÿÿÿ
+G
+java:S1481",Remove this unused "binaire" local variable.(è†ìŒüÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(³‚Øìüÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ùë“ş
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ËÁ§ÿÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒˆÒ’úÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ê¡ß™
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(Ñƒ¹¥
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(½¢ˆèûÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(‚¬ãŸıÿÿÿÿ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(¶Íˆ“
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ùÄûšşÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿú¬í
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì”Îé
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹‰ÖÛ

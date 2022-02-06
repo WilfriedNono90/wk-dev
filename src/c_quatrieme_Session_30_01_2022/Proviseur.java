@@ -18,19 +18,20 @@ public class Proviseur extends Personne implements Comportement {
         return super.getNom()+" "+super.getPrenom()+" "+super.getAge();
     }
 
+
     @Override
-    public void macher() {
-        //code
+    public void macher(int numerodeCarte) {
+
     }
 
     @Override
     public void sauter() {
-        //Code
+
     }
 
     @Override
     public void attaquer() {
-        //code
+
     }
 }
 

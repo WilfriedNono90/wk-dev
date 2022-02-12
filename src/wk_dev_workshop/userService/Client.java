@@ -1,6 +1,7 @@
 package wk_dev_workshop.userService;
 
-
+//WD-1 : le nom inter n'Est pas parlant, il ne respecte pas le cleanCode
+//WD-1 : enlever l'implementation on l'utilisera ailleur
 public class Client extends User implements Inter {
     public Client(String nom, String prenom, String email, String ville, int age, String adresse1, int plz) {
         super(nom, prenom, email, ville, age, adresse1, plz);

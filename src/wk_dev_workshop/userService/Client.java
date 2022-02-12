@@ -10,7 +10,7 @@ public class Client extends User implements Inter {
     public static void main(String[] args) {
         Client client = new Client("Priso", "Jacques", "jackevepriso@yahoo.fr", "Linden",
                 26, "Bahnhofstrasse 25", 35440);
-        System.out.println(client.email);
+        System.out.println(client.email + " "+ client.ville);
 
     }
 

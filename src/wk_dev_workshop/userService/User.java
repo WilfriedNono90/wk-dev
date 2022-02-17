@@ -10,6 +10,7 @@ public class User {
     String adresse1;
     int plz;
     String email;
+    private String role ;
     //WD-1 : quelle est la difference entre adresse1 et adresse
     HashMap<String, String> adresse = new HashMap<>();
 
@@ -23,7 +24,7 @@ public class User {
         this.email = email;
     }
 
-    //WD-1 : creer un constructeur sans parametre
+    //WD-1 : creer un constructeur sans parametrexxxyxycyxcx
 
 
     //Creer les getter et les setter pour tous les attributs

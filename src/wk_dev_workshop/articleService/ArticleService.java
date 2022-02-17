@@ -57,4 +57,15 @@ public class ArticleService {
 
 
     }
+
+    public boolean augmenterLestock(String idArticle, Long menge) {
+        Optional<Article> articleOptional = findArticleById(idArticle);
+        if (articleOptional.isPresent()) {
+            stockArticle.put( articleOptional.get(), stockArticle.get(articleOptional.get()) + menge );
+            return false;
+        } else {
+            System.out.println("Article with ID "+idArticle+" not found");
+            return false;
+        }
+    }
 }

@@ -3,8 +3,6 @@ d
 4src/c_quatrieme_Session_30_01_2022/OrienteObjet.java,9\b\9b3281bc24976f66c4858bae877020b8324eda3c
 ]
 -src/d_cinquieme_session_05_02_2022/Regex.java,5\4\5479ead2e7d07418733bf83b1904fc865a027b51
-B
-datenBankLogin.txt,c\f\cf60478008c7c23755a1b5319f4542bdbbe14e75
 d
 4src/c_quatrieme_Session_30_01_2022/Modification.java,d\f\df031bbaac82f536bb4c6a840d9bee6b7c7631fe
 `

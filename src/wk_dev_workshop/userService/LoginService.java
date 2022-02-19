@@ -20,8 +20,7 @@ public class LoginService implements LoginServiceInterface {
 
     @Override
     public  boolean testEmail (String email){
-        //WD-O1 : considerere les lettres majuscules avant le symbole @
-        String regex = ("[a-z0-9_.]+@[a-z0-9-]+\\.[a-z]{1,3}+");
+        String regex = ("[A-Za-z0-9_.]+@[a-z0-9-]+\\.[a-z]{1,3}+");
         if (email.matches(regex)) {
             return true;
         }

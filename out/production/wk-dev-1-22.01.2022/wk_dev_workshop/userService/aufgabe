@@ -1,0 +1,5 @@
+Les differentes Classes User (Client , Admin, etc..) devraient etre cree.
+ laba le bearbeiteur a le choix en ce qui concerne le nom des methodes et les attributs.
+  Penser a utiliser les notions d’heritage et d’interface vu lors des differentes Sessions.
+  Chaque utilisateur doit absolument avoir un nom, prenom, age et mot de passe.
+   Le bearbeiteur a le choix concernant le reste des taches.

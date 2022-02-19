@@ -13,5 +13,3 @@ a
 1src/c_quatrieme_Session_30_01_2022/Proviseur.java,7\e\7e4b585ea0562c0d6ce66cfef458a5a260eb3c54
 d
 4src/c_quatrieme_Session_30_01_2022/Comportement.java,4\8\48f3b3ddca412fd07aa2d0513da2729ba0670455
-h
-8src/d_cinquieme_session_05_02_2022/Lecture_Ecriture.java,6\7\67276d1ce770ce5dad8f3613309b20c35b634b1d
